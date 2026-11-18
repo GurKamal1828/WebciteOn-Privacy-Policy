@@ -7,7 +7,7 @@ Device and Usage Information Device type, operating system, app version Crash re
 
 Media and Local Data Access to your photo library or device storage only when you save or load items locally Items or media you create in the app
 
-How We Use Your Information To provide app features, including item creation and sharing To maintain app functionality on your device For anonymized analytics and crash reporting To communicate with you about support or app updates Note: Your personal data is never sold or shared for marketing purposes.
+How We Use Your Information: To provide app features, including item creation and sharing To maintain app functionality on your device For anonymized analytics and crash reporting To communicate with you about support or app updates Note: Your personal data is never sold or shared for marketing purposes.
 
 Data Storage and Security Personal information is stored securely on our servers We implement reasonable measures to protect your data Absolute security cannot be guaranteed for data transmitted over the internet or stored on your device
 
